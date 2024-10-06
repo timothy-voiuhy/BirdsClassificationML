@@ -8,6 +8,8 @@ I then added 2 dense layers to adjust the ouput to suit my classes(525)
 ## Perfomance
 I have sofar obtained a 88% train accuracy 93% validation accuracy and 90% test accuracy in the 10 first epochs. I have however really used a very large batch_size of 2048 for the train dataset since i have been using google colabs 346GB TPU 
 
+I hope to get something like 97% validation accuracy in another 10 epochs of training.
+
 ## Dataset
 The dataset is from kaggle.com titled: birds_525_species_image_classification
 
